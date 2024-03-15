@@ -17,6 +17,7 @@ Pereira
 107703027
 - [Seb Gillman](https://github.com/SebGillman)
 - Jayanth K
+- Dan A
 - ericbox
 -Anchita Kakria
 - pritam sonmane
